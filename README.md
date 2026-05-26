@@ -55,8 +55,8 @@ class MayankVyas {
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,vite" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=spring,asp.net" />
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,dotnet" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
