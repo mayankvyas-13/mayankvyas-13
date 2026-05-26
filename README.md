@@ -5,7 +5,7 @@ Full Stack Developer • Java Backend Developer • Spring Boot & React Enthusia
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+%7C+React.js;Microservices+Architecture;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+%7C+React.js;Microservices+Architecture;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
@@ -14,13 +14,17 @@ Full Stack Developer • Java Backend Developer • Spring Boot & React Enthusia
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```java
 public class MayankVyas {
 
     String role = "Full Stack Developer";
-    
+
+    String education1 = "PG-DAC @ CDAC Pune";
+
+    String education2 = "B.Tech CSE (AI & ML)";
+
     String[] skills = {
         "Java",
         "Spring Boot",
@@ -37,8 +41,9 @@ public class MayankVyas {
 ```
 
 - 🎓 PG-DAC @ CDAC Pune  
-- 💻 Passionate about scalable backend systems & modern web apps  
-- 🌱 Currently exploring System Design, DevOps & Cloud technologies  
+- 🎓 B.Tech in Computer Science (AI & ML) from JIET Institute of Design & Technology  
+- 💻 Passionate about scalable backend systems & modern web applications  
+- 👨‍💻 Currently exploring System Design, DevOps & Cloud technologies  
 - ⚡ Focused on Backend Engineering and Full Stack Development  
 
 ---
@@ -47,19 +52,19 @@ public class MayankVyas {
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
 
-### Frontend
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 
-### Backend
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-### Database
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 
 </div>
@@ -70,7 +75,7 @@ public class MayankVyas {
 
 <div align="center">
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
 | 🎯 IntelliPrep | Scalable Online Quiz & Assessment Platform built using Microservices Architecture | `Spring Boot` `React.js` `JWT` `Docker` |
 | 🏏 CricStars | Modern Cricket Analytics & Live Score Platform | `React.js` `REST APIs` `JavaScript` |
@@ -117,15 +122,18 @@ A modern cricket analytics platform designed for cricket enthusiasts.
 
 ---
 
-# 🌐 Connect With Me
+# 💻 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-  </a>
-  <a href="mailto:mayankvyas1323@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mayankvyas1323@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
