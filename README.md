@@ -50,7 +50,7 @@ class MayankVyas {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,dotnet" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
