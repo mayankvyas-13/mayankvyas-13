@@ -120,15 +120,15 @@ A modern cricket analytics platform designed for cricket enthusiasts.
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
+  <a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
 
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:mayankvyas1323@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
+  <a href="mailto:mayankvyas1323@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
 </p>
 
 ---
