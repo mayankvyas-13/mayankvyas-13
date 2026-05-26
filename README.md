@@ -56,7 +56,16 @@ class MayankVyas {
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=spring,dotnet" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=express" />
+</p>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
