@@ -53,7 +53,7 @@ class MayankVyas {
 <img src="https://skillicons.dev/icons?i=java,cpp,cs,dotnet" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,vite,tailwind,javascript,react" />
 
 ### Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=spring,dotnet" />
