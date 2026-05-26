@@ -59,7 +59,7 @@ class MayankVyas {
 <img src="https://skillicons.dev/icons?i=spring,dotnet" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven" />
