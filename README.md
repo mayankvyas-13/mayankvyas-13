@@ -17,29 +17,30 @@ Full Stack Developer • Java Backend Developer • Spring Boot & React Enthusia
 # 👨‍💻 About Me
 
 ```java
-public class MayankVyas {
+class MayankVyas {
 
     String role = "Full Stack Developer";
-    
-    String[] skills = {
+
+    String[] techStack = {
         "Java",
         "Spring Boot",
         "React.js",
         "Microservices",
-        "REST APIs",
         "Docker"
     };
 
-    String currentFocus = "Building scalable backend systems";
+    String currentFocus =
+        "Building scalable backend systems";
 
-    String passion = "Creating modern tech products with clean architecture";
+    String passion =
+        "Creating clean and modern web applications";
 }
 ```
 
-- 🎓 PG-DAC @ CDAC Pune
-- 🎓 B.Tech in Computer Science (AI & ML) from JIET Institute of Design & Technology    
+- 🎓 PG-DAC @ CDAC Pune  
+- 🎓 B.Tech in Computer Science (AI & ML) from JIET Institute of Design & Technology  
 - 💻 Passionate about scalable backend systems & modern web apps  
-- 👨‍💻 Building modern full stack applications with Spring Boot & React.js'
+- 👨‍💻 Building modern full stack applications with Spring Boot & React.js  
 - ⚡ Focused on Backend Engineering and Full Stack Development  
 
 ---
@@ -118,19 +119,19 @@ A modern cricket analytics platform designed for cricket enthusiasts.
 
 ---
 
-# 🌐 Connect With Me
+# 💻 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mayankvyas1323@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:mayankvyas1323@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
