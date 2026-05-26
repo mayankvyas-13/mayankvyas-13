@@ -37,7 +37,7 @@ public class MayankVyas {
 ```
 
 - 🎓 PG-DAC @ CDAC Pune
-- - 🎓 B.Tech in Computer Science (AI & ML) from JIET Institute of Design & Technology    
+- 🎓 B.Tech in Computer Science (AI & ML) from JIET Institute of Design & Technology    
 - 💻 Passionate about scalable backend systems & modern web apps  
 - 🌱 Currently exploring System Design, DevOps & Cloud technologies  
 - ⚡ Focused on Backend Engineering and Full Stack Development  
