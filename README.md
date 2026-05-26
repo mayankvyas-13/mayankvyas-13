@@ -1,101 +1,142 @@
 <h1 align="center">Hi 👋, I'm Mayank Vyas</h1>
 
 <h3 align="center">
-Full Stack Developer | Java Backend Developer | Spring Boot & React Enthusiast
+Full Stack Developer • Java Backend Developer • Spring Boot & React Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+%7C+React.js;Microservices+Enthusiast;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+%7C+React.js;Microservices+Architecture;Building+Scalable+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-- 🎓 PG-DAC @ CDAC Pune
-- 💻 Passionate about scalable backend systems and modern web applications
-- 🌱 Currently improving my skills in Microservices, System Design, and DevOps
-- ⚡ Strong interest in Java Backend Development & Full Stack Engineering
+```java
+public class MayankVyas {
 
----
+    String role = "Full Stack Developer";
+    
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "Microservices",
+        "REST APIs",
+        "Docker"
+    };
 
-# 🛠️ Tech Stack
+    String currentFocus = "Building scalable backend systems";
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
-</p>
+    String passion = "Creating modern tech products with clean architecture";
+}
+```
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-</p>
+- 🎓 PG-DAC @ CDAC Pune  
+- 💻 Passionate about scalable backend systems & modern web apps  
+- 🌱 Currently exploring System Design, DevOps & Cloud technologies  
+- ⚡ Focused on Backend Engineering and Full Stack Development  
 
 ---
 
-# 📌 Featured Projects
+# ⚒️ Tech Stack
 
-## 🎯 IntelliPrep
+<div align="center">
 
-Modern, scalable Online Quiz & Assessment Platform built using Microservices Architecture.
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
 
-### 🔹 Key Features
-- JWT Authentication & Role-Based Authorization
-- Quiz Management & Attempt Tracking
-- API Gateway & Eureka Service Discovery
-- Dockerized Deployment
-- Real-Time Quiz Experience
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 
-### 🔹 Tech Stack
-`Spring Boot` `React.js` `MySQL` `Docker` `JWT` `Spring Security`
+### Backend
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+
+</div>
 
 ---
 
-## 🏏 CricStars
+# 🚀 Featured Projects
 
-A cricket analytics and live score platform designed for cricket enthusiasts.
+<div align="center">
 
-### 🔹 Features
-- Live Match Scores
-- ICC Rankings
-- Player Statistics
-- Match Analytics Dashboard
-- Responsive UI
+| Project | Description | Tech |
+|---|---|---|
+| 🎯 IntelliPrep | Scalable Online Quiz & Assessment Platform built using Microservices Architecture | `Spring Boot` `React.js` `JWT` `Docker` |
+| 🏏 CricStars | Modern Cricket Analytics & Live Score Platform | `React.js` `REST APIs` `JavaScript` |
 
-### 🔹 Tech Stack
-`React.js` `REST APIs` `JavaScript` `CSS`
+</div>
+
+---
+
+# 🎯 IntelliPrep
+
+Modern, scalable Online Quiz & Assessment Platform designed for secure and interactive examination experiences.
+
+### ✨ Highlights
+
+- JWT Authentication & Role-Based Authorization  
+- API Gateway & Eureka Service Discovery  
+- Quiz Management & Attempt Tracking  
+- Dockerized Deployment using Docker Compose  
+- Real-Time Quiz Experience & Analytics  
+- RESTful Inter-Service Communication  
+- Scalable Microservices Architecture  
+
+### ⚙️ Tech Stack
+
+`Spring Boot` • `React.js` • `MySQL` • `Docker` • `JWT` • `Spring Security`
+
+---
+
+# 🏏 CricStars
+
+A modern cricket analytics platform designed for cricket enthusiasts.
+
+### ✨ Features
+
+- Live Match Scores  
+- ICC Rankings  
+- Player Statistics  
+- Match Analytics Dashboard  
+- Responsive UI Design  
+
+### ⚙️ Tech Stack
+
+`React.js` • `REST APIs` • `JavaScript` • `CSS`
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:mayankvyas1323@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-💻 Building scalable applications | 🚀 Learning continuously | ⚡ Open to opportunities
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 </p>
+
+<h3 align="center">
+💻 Building Scalable Applications • 🚀 Continuous Learning • ⚡ Open To Opportunities
+</h3>
