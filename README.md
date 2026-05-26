@@ -152,7 +152,7 @@ Modern, scalable Online Quiz & Assessment Platform designed for secure and inter
 
 ### ⚙️ Tech Stack
 
-`Spring Boot` • `React.js` • `MySQL` • `Docker` • `JWT` • `Spring Security`
+`Java` • `Spring Boot` • `React.js` • `PostgreSQL` • `Docker` • `JWT` • `Spring Security` • `Eureka`
 
 ---
 
