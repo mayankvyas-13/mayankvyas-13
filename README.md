@@ -50,28 +50,55 @@ class MayankVyas {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,dotnet" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
 ### Backend & Frameworks
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring" />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=express" />
 </p>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+</p>
 
 </div>
 
