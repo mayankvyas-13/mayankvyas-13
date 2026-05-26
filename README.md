@@ -8,10 +8,6 @@ Full Stack Developer | Java Backend Developer | Spring Boot & React Enthusiast
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+%7C+React.js;Microservices+Enthusiast;Open+to+Opportunities" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankvyas-13&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 # 🚀 About Me
@@ -83,18 +79,6 @@ A cricket analytics and live score platform designed for cricket enthusiasts.
 
 ### 🔹 Tech Stack
 `React.js` `REST APIs` `JavaScript` `CSS`
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankvyas-13&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankvyas-13&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
