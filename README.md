@@ -180,6 +180,7 @@ A modern cricket analytics platform designed for cricket enthusiasts.
   <a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
+   <img width="18" />
   <a href="mailto:mayankvyas1323@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
