@@ -174,18 +174,15 @@ A modern cricket analytics platform designed for cricket enthusiasts.
 
 ---
 
-# 💻 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mayankvyas1323@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/mayank-vyas-078475228/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  <a href="mailto:mayankvyas1323@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
 </p>
 
 ---
