@@ -53,18 +53,37 @@ class MayankVyas {
 <img src="https://skillicons.dev/icons?i=java,cpp,cs,dotnet" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-### Database
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven" />
 
 </div>
+
+---
+
+# 🧠 Core Concepts
+
+```yaml
+Microservices Architecture
+REST APIs
+JWT Authentication
+Spring Security
+OOP
+Data Structures & Algorithms
+MVC Architecture
+Multithreading
+Collections Framework
+DBMS
+Operating Systems
+Computer Networks
+```
 
 ---
 
